@@ -1,13 +1,12 @@
 # Hi, I'm JC 👋
 
-Software Developer from Philippines.
+Software Engineer from Philippines.
 
-I build [what you build], mostly around Javascript and Swift Ecosystems.
+I build open-souce tools and extensions, mostly around Javascript and Swift Ecosystems.
 
 ## Featured Projects
 
-- **[ProjectName](https://github.com/you/project)** - Short description. `Tech` `Tags`
-- **[AnotherOne](https://github.com/you/project2)** - What it does. `PHP` `Laravel`
+# Under Construction
 
 ## Tech Stack
 
@@ -17,5 +16,5 @@ I build [what you build], mostly around Javascript and Swift Ecosystems.
 
 ## Links
 
-- 🌐 [yourwebsite.com](https://yourwebsite.com)
-- 🐦 [@yourhandle](https://twitter.com/yourhandle)
+- 🌐 [jcvs](https://jcvs-dev.vercel.app/)
+
