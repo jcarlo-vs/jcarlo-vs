@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm JC 👋
 
-<!--
-**jcarlo-vs/jcarlo-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from Philippines.
 
-Here are some ideas to get you started:
+I build [what you build], mostly around Javascript and Swift Ecosystems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[ProjectName](https://github.com/you/project)** - Short description. `Tech` `Tags`
+- **[AnotherOne](https://github.com/you/project2)** - What it does. `PHP` `Laravel`
+
+## Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+## Links
+
+- 🌐 [yourwebsite.com](https://yourwebsite.com)
+- 🐦 [@yourhandle](https://twitter.com/yourhandle)
