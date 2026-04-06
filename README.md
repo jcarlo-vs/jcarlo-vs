@@ -49,13 +49,6 @@ I write code that ships. Frontends that feel right, backends that don't break at
 
 ---
 
-## 📊 GitHub Stats
-
-![JC's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 Portfolio: **[jcvs-dev.vercel.app](https://jcvs-dev.vercel.app/)**
