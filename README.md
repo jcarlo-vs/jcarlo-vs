@@ -55,7 +55,7 @@ I write code that ships. Frontends that feel right, backends that don't break at
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: **[jcvs-dev.vercel.app](https://jcvs-codes.com/)**
+- 💼 Portfolio: **[https://jcvs-codes.com/](https://jcvs-codes.com/)**
 - 💬 Open to work — let's build something together!
 
 ---
